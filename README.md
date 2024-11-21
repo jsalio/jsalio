@@ -48,8 +48,8 @@
 ---
 
 ## 📫 Contáctame  
-- **GitHub**: [TuPerfilGitHub](https://github.com/jsalio)  
-- **LinkedIn**: [TuPerfilLinkedIn](https://www.linkedin.com/in/jorge-augusto-rodriguez-encarnacion-1b1305b5/)  
+- **GitHub**: [GitHub](https://github.com/jsalio)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jorge-augusto-rodriguez-encarnacion-1b1305b5/)  
 
 ---
 
